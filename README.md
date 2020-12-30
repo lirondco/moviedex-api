@@ -11,10 +11,10 @@ An API Key is required. To use your own sample API Key, please create a .env fil
 *This is a sample API server. You do not let users make their own api key on real servers*
 
 ***
+<div lang='he' dir='rtl'>
+# &#x202b; זהו שרת API לדוגמא למשימה מת'ינקפול
 
-&#x202b; # זהו שרת API לדוגמא למשימה מת/ינקפול
-
-&#x202b; ## הוראות לשימוש
+## &#x202b; הוראות לשימוש
 
 &#x202b; ניתן לגשת לשרת זה דרך: htpp://localhost:8080
 
@@ -23,3 +23,5 @@ An API Key is required. To use your own sample API Key, please create a .env fil
 `API_TOKEN ${your-own-api-key}`
 
 &#x202b; *השרת זה הוא לדוגמא בלבד. באפליקציות אמיתיות זה לא כדאי לתת למשתמשים ליצור API KEY משלהם!*
+
+</div>
