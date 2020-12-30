@@ -1,6 +1,6 @@
-# THIS IS A SAMPLE API SERVER FOR A THINKFUL MODULE ASSIGNMENT
+# This is a sample API server for a Thinkful assignment
 
-## INSTRUCTIONS FOR USE
+## Instructions for use
 
 This API Server can be accessed through: http://localhost:8080
 
