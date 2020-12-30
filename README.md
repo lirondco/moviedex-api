@@ -12,6 +12,7 @@ An API Key is required. To use your own sample API Key, please create a .env fil
 
 ***
 <div lang='he' dir='rtl'>
+
 # &#x202b; זהו שרת API לדוגמא למשימה מת'ינקפול
 
 ## &#x202b; הוראות לשימוש
