@@ -17,7 +17,7 @@ An API Key is required. To use your own sample API Key, please create a .env fil
 
 ## &#x202b; הוראות לשימוש
 
-&#x202b; ניתן לגשת לשרת זה דרך: htpp://localhost:8080
+&#x202b; ניתן לגשת לשרת זה דרך: http://localhost:8080
 
 &#x202b; נדרש API KEY. כדי להשתמש בAPI KEY משלכם, נא ליצור קובץ .env ובתוכו נא לכתוב
 
